@@ -1,0 +1,7 @@
+20231201	13:23:25	960adb17-1bf2-411b-82da-5b02b2b44b4e	Error: ENOENT: no such file or directory, stat '/Users/johnkim/Desktop/server/views/subdir/test.html'
+20231204	10:35:13	68ecc4e8-e17a-4544-b7e5-4baf8ed0eed2	Error: ENOENT: no such file or directory, stat '/Users/johnkim/Desktop/server/routes/new-page.html'
+20231204	10:35:54	5c2166b1-0128-465d-b19f-6b974df99fff	Error: ENOENT: no such file or directory, stat '/Users/johnkim/Desktop/server/routes/new-page.html'
+20231204	19:06:53	e81b7885-7c7e-4d97-95c6-2c581c902a78	SyntaxError: Unexpected string in JSON at position 25
+20231204	19:07:07	6999c1fc-889b-41c1-b324-64e4d5e064b1	SyntaxError: Unexpected string in JSON at position 25
+20231205	09:27:04	731887c1-d92f-4abd-88e7-68d769877b3d	SyntaxError: Unexpected string in JSON at position 23
+20231205	11:41:17	dc409671-568a-4c6a-bf9e-05d2c25aeedb	Error: Not allowed by CORS
