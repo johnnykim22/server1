@@ -287,3 +287,11 @@
 20231205	16:25:28	ca952ac8-1162-48d4-8eb2-3ac0bf421aac	POST	undefined	/auth
 20231205	17:51:31	2f801eef-017f-4a84-9664-9e12e7f8582d	POST	undefined	/register
 20231205	17:52:27	47e8f057-8ce6-41ec-9c23-a7405fc2646c	POST	undefined	/register
+20231207	16:15:40	acb524c8-c3f4-44f5-8311-3aaea0f345a0	GET	undefined	/
+20231207	16:15:40	2be9cb59-3a66-40ca-aa10-c594b76fa405	GET	undefined	/css/style.css
+20231207	16:15:40	73621a70-07ca-4ba1-b1f3-45d4ce85a245	GET	undefined	/favicon.ico
+20231207	16:17:21	a8842921-294a-46dd-94ff-e6e69dcd0493	POST	undefined	/auth
+20231207	16:45:24	e31fa71c-a0ce-412b-bf74-8bcbf9c22550	OPTIONS	http://localhost:3000	/register
+20231207	16:45:24	9ed7f65f-81f7-40ba-b45a-a29a10dd3da8	POST	http://localhost:3000	/register
+20231207	16:47:23	df297248-f505-4750-a9d9-8f11738dc767	OPTIONS	http://localhost:3000	/register
+20231207	16:47:23	8470cbfd-07fb-4c9b-836c-34f3e15fa8e4	POST	http://localhost:3000	/register
