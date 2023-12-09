@@ -319,3 +319,5 @@
 20231208	17:53:52	9ba0893a-46dc-4b52-8123-ee32da29756f	GET	undefined	/auth
 20231208	17:54:11	447e4832-9e94-48ff-bdde-ba99c6397a07	GET	http://localhost:3000	/ws
 20231208	17:55:16	26112fe5-4bb4-491e-8ade-2cba2211d515	GET	http://localhost:3000	/ws
+20231208	17:57:25	99fe1359-75c9-4a6a-bf5b-5d476190cd6a	GET	http://localhost:3000	/ws
+20231208	18:01:42	9c7ff1be-0be5-4eed-95ad-8ea8821a4142	GET	http://localhost:3000	/ws
