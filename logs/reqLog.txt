@@ -295,3 +295,6 @@
 20231207	16:45:24	9ed7f65f-81f7-40ba-b45a-a29a10dd3da8	POST	http://localhost:3000	/register
 20231207	16:47:23	df297248-f505-4750-a9d9-8f11738dc767	OPTIONS	http://localhost:3000	/register
 20231207	16:47:23	8470cbfd-07fb-4c9b-836c-34f3e15fa8e4	POST	http://localhost:3000	/register
+20231208	17:17:52	611220d1-83e1-462a-a3f9-5fd81b4923ea	GET	undefined	/
+20231208	17:17:52	2dee9e74-1332-4526-b3f3-7c518034cdf8	GET	undefined	/css/style.css
+20231208	17:17:52	e71a1b15-39cc-43f9-8e77-f96b0cd2e674	GET	undefined	/favicon.ico
