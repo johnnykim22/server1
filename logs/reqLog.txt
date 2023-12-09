@@ -321,3 +321,6 @@
 20231208	17:55:16	26112fe5-4bb4-491e-8ade-2cba2211d515	GET	http://localhost:3000	/ws
 20231208	17:57:25	99fe1359-75c9-4a6a-bf5b-5d476190cd6a	GET	http://localhost:3000	/ws
 20231208	18:01:42	9c7ff1be-0be5-4eed-95ad-8ea8821a4142	GET	http://localhost:3000	/ws
+20231208	18:06:29	b0c21ee9-6627-4a1a-8a42-bc98e9dd44d5	GET	undefined	/
+20231208	18:06:29	466fd284-1d29-4e2a-b570-e78239b54277	GET	undefined	/css/style.css
+20231208	18:06:29	9f152dc5-6356-447e-99a1-5ec1291194e1	GET	undefined	/favicon.ico
