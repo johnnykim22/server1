@@ -11,7 +11,7 @@ const cookieParser = require("cookie-parser");
 const credentials = require("./middleware/credentials");
 const mongoose = require("mongoose");
 
-const PORT = process.env.PORT || 3000;
+const PORT = process.env.PORT || 3000
 
 // Singleton pattern to manage MongoDB connection
 let isConnected;
