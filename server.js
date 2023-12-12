@@ -87,6 +87,10 @@ connectDB()
     });
   })
   .catch((error) => {
+    app.listen(PORT, () => {
+      console.log(`Server running on port ${PORT}`);
+    });
+
     console.error("Failed to connect to MongoDB:", error);
     process.exit(1);
   });
