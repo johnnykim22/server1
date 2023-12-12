@@ -24,6 +24,8 @@ const connectDB = async () => {
 
   console.log("Using new database connection");
   try {
+    console.log("Connecting to MongoDB...")
+    console.log(process.env.MONGO_URI + " " + process.env.MONGO_URI)
     const conn = await mongoose.connect(process.env.MONGO_URI);
     isConnected = conn.connections[0].readyState;
     console.log(`MongoDB Connected: ${conn.connection.host}`);
@@ -87,10 +89,12 @@ connectDB()
     });
   })
   .catch((error) => {
-    app.listen(PORT, () => {
+   /* app.listen(PORT, () => {
       console.log(`Server running on port ${PORT}`);
-    });
+    });*/
 
     console.error("Failed to connect to MongoDB:", error);
     process.exit(1);
   });
+
+  //vercel 
