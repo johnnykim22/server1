@@ -1,6 +1,6 @@
 const allowedOrigins = [
   "https://authform-cdgoxf2wy-john-kims-projects.vercel.app",
-  "https://authform-gamma.vercel.app/:1",
+  "https://authform-gamma.vercel.app",
  
   "http://127.0.0.1:5500",
   "http://localhost:3500",
